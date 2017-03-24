@@ -16,8 +16,8 @@
   <table class="table">
     <thead>
       <tr>
-        <th>Firstname</th>
-        <th>Lastname</th>
+        <th>Firstname Pankaj </th>
+        <th>Lastname Muneshwar</th>
         <th>Email</th>
       </tr>
     </thead>
